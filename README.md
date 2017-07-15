@@ -31,4 +31,4 @@ MIT / BSD
 Author Information
 ------------------
 
-(@todo)
+This role was created in 2017 by [Sierk Beij](https://github.com/sierkje).
