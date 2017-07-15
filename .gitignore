@@ -1,0 +1,6 @@
+
+# JetBrains PhpStorm, etc.
+.idea
+
+# Ansible playbook retry files
+*.retry
